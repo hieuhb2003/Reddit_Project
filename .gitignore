@@ -3,3 +3,4 @@ prompt.txt
 .env
 README_XX.md
 checkpoints
+__pycache__
